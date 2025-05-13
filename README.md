@@ -9,6 +9,18 @@ A **simple car-themed website** built with **HTML** and **CSS**. This project sh
 
 This project is a **beginner-level student exercise** designed to practice **front-end development skills**. 🎓
 
+![⭐ GitHub stars](https://img.shields.io/github/stars/damianczer/Sample-Portfolio-Page?style=social)  
+![👀 GitHub watchers](https://img.shields.io/github/watchers/damianczer/Sample-Portfolio-Page?style=social)  
+![🐞 GitHub issues](https://img.shields.io/github/issues/damianczer/Sample-Portfolio-Page?style=flat-square)  
+
+---
+
+## 👤 **Author**  
+[Damian Czerwiński](https://github.com/damianczer/)
+
+---
+
+
 ---
 
 ## 🌟 Features
