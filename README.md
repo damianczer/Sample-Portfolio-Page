@@ -1,6 +1,6 @@
 # 🚗 Sample Portfolio Page
 
-A **simple car-themed website** built with **HTML** and **CSS**. This project showcases various components such as:
+A **simple car-themed website** built with **HTML**, **CSS** and **JavaScript**. This project showcases various components such as:
 
 - 📰 About section
 - 🖼️ An image gallery
