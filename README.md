@@ -22,9 +22,6 @@ This project is a **beginner-level student exercise** designed to practice **fro
 
 ---
 
-
----
-
 ## 🌟 Features
 
 - **Responsive Design**: Works seamlessly on different devices.
