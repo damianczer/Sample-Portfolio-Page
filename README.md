@@ -11,9 +11,9 @@ A **simple car-themed website** built with **HTML**, **CSS** and **JavaScript**.
 
 This project is a **beginner-level student exercise** designed to practice **front-end development skills**. 🎓
 
-![⭐ GitHub stars](https://img.shields.io/github/stars/damianczer/Sample-Portfolio-Page?style=social)  
-![👀 GitHub watchers](https://img.shields.io/github/watchers/damianczer/Sample-Portfolio-Page?style=social)  
-![🐞 GitHub issues](https://img.shields.io/github/issues/damianczer/Sample-Portfolio-Page?style=flat-square)  
+![⭐ GitHub stars](https://img.shields.io/github/stars/damianczer/sample-portfolio-page?style=social)  
+![👀 GitHub watchers](https://img.shields.io/github/watchers/damianczer/sample-portfolio-page?style=social)  
+![🐞 GitHub issues](https://img.shields.io/github/issues/damianczer/sample-portfolio-page?style=flat-square)  
 
 ---
 
