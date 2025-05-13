@@ -2,10 +2,12 @@
 
 A **simple car-themed website** built with **HTML** and **CSS**. This project showcases various components such as:
 
-- 📰 A news section
+- 📰 About section
 - 🖼️ An image gallery
 - 🚘 Vehicle cards
 - 📱 A responsive menu
+- ⭐ Opinions
+- ☎️ Contact with Google Maps
 
 This project is a **beginner-level student exercise** designed to practice **front-end development skills**. 🎓
 
