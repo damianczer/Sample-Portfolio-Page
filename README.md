@@ -32,7 +32,7 @@ This project is a **beginner-level student exercise** designed to practice **fro
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Sample-Portfolio-Page.git
+   git clone https://github.com/damianczer/Sample-Portfolio-Page.git
    ```
 2. Open `index.html` in your browser to view the website.
 
