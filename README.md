@@ -53,6 +53,7 @@ This project is a **beginner-level student exercise** designed to practice **fro
 
 - **HTML5**
 - **CSS3**
+- **JavaScript ES6**
 
 ---
 
